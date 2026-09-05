@@ -1,0 +1,5 @@
+## Week 5 — HealthConnect Experience Lab (Generative AI Track)
+- Built a working prototype (classification → retrieval → response) implementing the Week 4 assistant design
+- Ran a 13-case test suite covering normal, ambiguous, unsupported, escalation, and info-unavailable scenarios
+- Found and fixed two safety gaps during testing: an internal-instruction leak and two missed escalations
+- Files: `/week5/HealthConnect_Week5_AI_Prototype_Package.docx`, `/week5/HealthConnect_Week5_Project_Summary.docx`, `/week5/[notebook filename].ipynb`
